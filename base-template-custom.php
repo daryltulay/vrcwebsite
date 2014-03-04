@@ -7,20 +7,16 @@
     </div>
   <![endif]-->
 
-
-
-
- <?php get_template_part('templates/top-subpage'); ?>
-
+<?php get_template_part('templates/landing'); ?>
+ 
  <?php
     do_action('get_header');
     // Use Bootstrap's navbar if enabled in config.php
     if (current_theme_supports('bootstrap-top-navbar')) {
       /* get_template_part('templates/header-top-navbar'); */
     } else {
-       get_template_part('templates/full-width'); 
+      get_template_part('templates/full-width');
     }
-    
   ?>
   
   
@@ -28,8 +24,6 @@
   <div class="wrap container-fluid" role="document">
       <main class="main <?php echo roots_main_class(); ?>" role="main">
         <?php include roots_template_path(); ?>
-        
-<?php get_template_part('templates/content-page');?>
       </main><!-- /.main -->
       <?php if (roots_display_sidebar()) : ?>
         <aside class="sidebar <?php echo roots_sidebar_class(); ?>" role="complementary">
@@ -39,7 +33,7 @@
     </div><!-- /.content -->
   </div><!-- /.wrap -->
 
-  <?php get_template_part('templates/footer'); ?>
+    <?php get_template_part('templates/footer'); ?>
 
 </body>
 </html>

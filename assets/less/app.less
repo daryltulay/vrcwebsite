@@ -4,13 +4,271 @@
 
 @import "bootstrap/bootstrap.less";
 
+/*** Design Services ***/
+li{
+	
+	padding-top: 5px;
+}
+.red{
+	color: #8c1a1c;
+}
+
+.padify{
+	padding-top: 22px;
+}
+
+.marginify{
+	margin-bottom: 50px;
+	
+}
+
+.bebasify{
+font-family: 'BebasNeueRegular', Arial, serif;
+}
+
+.linify{
+	text-decoration: underline;
+}
+
+/*** Triangle ***/
+.triangle-up-left-white {
+    width: 0;
+height: 0;
+padding-bottom: 82%;
+padding-left: 81%;
+overflow: hidden;
+}
+.triangle-up-left-white:after {
+content: "";
+display: block;
+width: 0;
+height: 0;
+margin-left: -536px;
+border-bottom: 364px solid transparent;
+border-left: 537px solid #fff;
+}
+.triangle-up-left {
+    width: 0;
+height: 0;
+padding-bottom: 82%;
+padding-left: 81%;
+overflow: hidden;
+}
+.triangle-up-left:after {
+content: "";
+display: block;
+width: 0;
+height: 0;
+margin-left: -536px;
+border-bottom: 364px solid transparent;
+border-left: 537px solid #C1C3C5;
+}
+
+.triangle-down-right {
+position: absolute;
+    width: 78%;
+height: 0;
+padding-top: 66%;
+overflow: hidden;
+top: 54.6%;
+left: -2px;
+}
+
+
+
+.triangle-down-right:after {
+content: "";
+display: block;
+width: 0;
+height: 0;
+margin-top: -456px;
+border-top: 432px solid transparent;
+border-right: 641px solid #FFFFFF;
+}
+
+.triangle-down-right2 {
+position: absolute;
+height: 0;
+padding-top: 15%;
+overflow: hidden;
+top: 800px;
+left: 919px;
+z-index: 5;
+}
+.triangle-down-right2:after {
+content: "";
+display: block;
+width: 0;
+height: 0;
+margin-top: -154px;
+border-top: 148px solid transparent;
+border-right: 221px solid #c3c3c4;
+}
+
+.covertriangle{
+position: absolute;
+height: 42px;
+float: left;
+width: 331px;
+background-color: #c3c3c4;
+top: 349px;
+left: -70px;
+z-index: 1;
+transform: rotate(30deg);
+-ms-transform: rotate(30deg);
+-webkit-transform: rotate(-34deg);
+}
+.straightlineft{
+height: 50px;
+float: right;
+width: 924px;
+background-color: #c3c3c4;
+position: absolute;
+top: 310px;
+left: 220px;
+z-index: 1;
+}
+
+/*** Font-face ***/
+@font-face {
+    font-family: 'BebasNeueRegular';
+    src: url('../fonts/BebasNeue-webfont.eot');
+    src: url('../fonts/BebasNeue-webfont.eot?iefix') format('eot'),
+         url('../fonts/BebasNeue-webfont.woff') format('woff'),
+         url('../fonts/BebasNeue-webfont.ttf') format('truetype'),
+         url('../fonts/BebasNeue-webfont.svg#webfont4Bjy2lJe') format('svg');
+    font-weight: normal;
+}
+
+/* ==========================================================================
+   Enflatten
+   ========================================================================== */
+/* Flatten das boostrap */
+.well, .navbar-inner, .popover, .btn, .tooltip, input, select, textarea, pre, .progress, .modal, .add-on, .alert, .table-bordered, .nav>.active>a, .dropdown-menu, .tooltip-inner, .badge, .label, .img-polaroid,  {
+  -moz-box-shadow: none !important;
+	-webkit-box-shadow: none !important;
+	box-shadow: none !important;
+	-webkit-border-radius: 0px !important;
+	-moz-border-radius: 0px !important;
+	border-radius: 0px !important;
+	border-collapse: collapse !important;
+	background-image: none !important;
+}
+
+.take-all-space-you-can{
+    width:100%;
+}
+
+.jumbotron{
+	
+	border-radius: 0px !important;
+}
 /* ==========================================================================
    Base
    ========================================================================== */
+body {background-color: #c3c3c4;
 
-body { }
+text-align: justify;
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+	font-family: 'BebasNeueRegular', sans-serif;
+}
+ }
+
+.landbg {background: url('http://vrc.tulay.me/wp-content/uploads/2014/02/Intro-Bg.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;}
+  
+  .nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus {
+color: #fff;
+background-color: #8c0407;
+border: 2px solid #8c0407;
+border-bottom-color: transparent;
+cursor: pointer;
+padding-left: 120px;
+padding-right: 120px;
+}
+
+.nav-tabs>li>a {
+line-height: 1.428571429;
+border: 1px solid transparent;
+border-radius: 0;
+font-family: BebasNeueRegular;
+font-size: 27px;
+letter-spacing: 2px;
+padding-left: 120px;
+padding-right: 120px;
+}
+
+li {
+padding-top: 0px;
+}
 
 
+/*
+.li:active{
+	background-color: white;
+	color: black
+}
+*/
+
+/*
+.nav-pills > li.active > a {
+   position: relative;
+   border-radius: 0px !important;
+}
+
+.nav-pills > li.active > a::after {
+   border-top: 15px inset transparent;
+   border-bottom: 15px inset transparent;
+   border-left: 30px solid #08C;
+   position: absolute;
+   content: "";
+   top: 0;
+   right: -20px;
+}
+*/
+/*
+nav{
+	-webkit-transform: skew(-10deg);
+-moz-transform: skew(-10deg);
+-ms-transform: skew(-10deg);
+transform: skew(-10deg);
+font-family:'BebasNeueRegular'; font-size:18px;
+color: #636262;
+}
+*/
+
+footer{
+	font-family: 'BebasNeueRegular';
+	font-size: 14px;
+	color: #b7b7b8;
+	letter-spacing: 1px;
+	height: 200px;
+	
+}
+
+ul#menu-primary-navigation{
+
+-webkit-transform: skew(-10deg);
+-moz-transform: skew(-10deg);
+-ms-transform: skew(-10deg);
+transform: skew(-10deg);
+font-family:'BebasNeueRegular'; font-size:18px;
+color: #636262;
+
+
+}
+
+.navbar-nav>li>a {
+padding-top: 10px;
+padding-bottom: 10px;
+}
+
+li > a:hover {
+    color: black;
+}
 
 /* ==========================================================================
    Header
@@ -85,6 +343,20 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 
 @media (min-width: @screen-sm-min) { }
 
-@media (min-width: @screen-md-min) { }
+@media (min-width: @screen-md-min) {
 
+		.navbar-nav{
+        float:none;
+        margin: 0 auto;
+        display: table;
+        table-layout: fixed;
+        font: 900;} 
+    
+    	.navbar{
+	    	padding: 0px
+    	}
+    	
+}
 @media (min-width: @screen-lg-min) { }
+
+

@@ -175,7 +175,6 @@
     return this
   }
 
-
   // CAROUSEL DATA-API
   // =================
 

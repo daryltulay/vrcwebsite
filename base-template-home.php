@@ -10,7 +10,7 @@
 
 
 
- <?php get_template_part('templates/top-subpage'); ?>
+ <?php get_template_part('templates/top'); ?>
 
  <?php
     do_action('get_header');
@@ -18,7 +18,7 @@
     if (current_theme_supports('bootstrap-top-navbar')) {
       /* get_template_part('templates/header-top-navbar'); */
     } else {
-       get_template_part('templates/full-width'); 
+      get_template_part('templates/full-width');   
     }
     
   ?>
