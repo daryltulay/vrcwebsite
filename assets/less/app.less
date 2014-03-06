@@ -180,32 +180,6 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   -o-background-size: cover;
   background-size: cover;}
   
-  .nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus {
-color: #fff;
-background-color: #8c0407;
-border: 2px solid #8c0407;
-border-bottom-color: transparent;
-cursor: pointer;
-padding-left: 120px;
-padding-right: 120px;
-}
-
-.nav-tabs>li>a {
-line-height: 1.428571429;
-border: 1px solid transparent;
-border-radius: 0;
-font-family: BebasNeueRegular;
-font-size: 27px;
-letter-spacing: 2px;
-padding-left: 120px;
-padding-right: 120px;
-}
-
-li {
-padding-top: 0px;
-}
-
-
 /*
 .li:active{
 	background-color: white;
@@ -359,8 +333,107 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 }
 @media (min-width: @screen-lg-min) { }
 
-
+//start of custom css
 .container {
    max-width: none !important;
    width: 970px;
 }
+//subpage container
+.subpage-container { 
+height:510px;
+}
+.darkify{
+	background-color: #363638;
+}
+//btn primary override
+.btn-primary {
+background-color: transparent;
+border-color: #fff;
+}
+.btn-primary:hover{
+background-color: #dd2b46;	
+}
+//link color override
+a {
+color: #fff;
+}
+//tab nav override
+ .nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus {
+color: #fff;
+background-color: #8c0407;
+border: 2px solid #8c0407;
+border-bottom-color: transparent;
+cursor: pointer;
+padding-left: 90px;
+padding-right: 90px;
+}
+
+.nav-tabs>li>a {
+line-height: 1.428571429;
+border: 1px solid transparent;
+border-radius: 0;
+font-family: BebasNeueRegular;
+font-size: 27px;
+letter-spacing: 2px;
+padding-left: 90px;
+padding-right: 90px;
+}
+
+li {
+padding-top: 0px;
+}
+//about us container
+#about-us{
+	background-color: #fff;
+	line-height: 26px;
+}
+
+///////css triangles/////////
+//about first photo
+.about1-photo{
+	padding-left: 0px;
+	background-image: url('http://lorempixel.com/220/440/'); 
+	height: 440px;
+	background-repeat: no-repeat; 
+	left:15px; 
+	top: 75px;
+}
+
+//about first photo up
+.angle1-white-up {
+    width: 0;
+height: 0;
+padding-bottom: 82%;
+padding-left: 97%;
+overflow: hidden;
+}
+.angle1-white-up:after {
+content: "";
+display: block;
+width: 0;
+height: 0;
+margin-left: -536px;
+border-bottom: 364px solid transparent;
+border-left: 537px solid #fff;
+}
+
+//about first photo down
+.angle1-white-down {
+position: absolute;
+width: 91%;
+height: 0;
+padding-top: 67%;
+overflow: hidden;
+top: 65.6%;
+left: -1px;
+}
+.angle1-white-down:after{
+content: "";
+display: block;
+width: 0;
+height: 0;
+margin-top: -433px;
+border-top: 432px solid transparent;
+border-right: 641px solid #fff;	
+}
+

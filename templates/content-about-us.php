@@ -1,12 +1,10 @@
-<div style="background-color: #fff; line-height:26px;">
+<div id="about-us">
 	<div class="row clearfix">
-		<div class="col-md-3 column"  style="padding-left: 0px; background-image: url('http://lorempixel.com/220/440/'); height: 440px; background-repeat: no-repeat; left:14px; top: 75px;">
-		
-				<div class="triangle-up-left-white"></div>
-				<div class="triangle-down-right" style="top: 63.9%; left: 0px;"></div>
-			
+		<div class="col-md-3 column about1-photo">
+				<div class="angle1-white-up"></div>
+				<div class="angle1-white-down"></div>
 		</div>
-		<div class="col-md-7 column" style="margin-top:50px;">
+		<div class="col-md-7 column">
 			<p class="padify">
 				VILLEGAS – ROXAS CONSULTANTS (VRC) is a private multi - disciplinary architectural firm represented by architects from different fields of specialization, academe and consultants from other allied professions that work hand-in-hand with prominent and sensitive clientele. We create designs at all scales and in all sectors - commercial, institutional, residential, and master planning.
 			</p>
