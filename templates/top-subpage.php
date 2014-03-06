@@ -5,7 +5,7 @@
 				<?php get_template_part('templates/logo');?> <!-- get logo -->
 				<?php get_template_part('templates/header-top-navbar');?> <!-- get nav bar -->
 				<div style="position: relative; padding-bottom: 40px;">
-					<div class="jumbotron" style="background-image: url('http://lorempixel.com/970/300'); font-family:'BebasNeueRegular';font-size: 18px;color: #fff; border: 3px solid #fff;">
+					<div class="jumbotron" style="background-image: url('http://placehold.it/970x230'); font-family:'BebasNeueRegular';font-size: 18px;color: #fff; border: 3px solid #fff;">
 					  <h1>LOREM PIXEL</h1>
 					  <h4>HELLO WORLD</h4>
 					</div>
