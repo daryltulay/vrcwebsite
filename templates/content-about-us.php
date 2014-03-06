@@ -1,10 +1,10 @@
 <div id="about-us">
 	<div class="row clearfix">
-		<div class="col-md-3 column about1-photo">
+		<div class="col-xs-3 column about1-photo">
 				<div class="angle1-white-up"></div>
 				<div class="angle1-white-down"></div>
 		</div>
-		<div class="col-md-7 column">
+		<div class="col-xs-7 column">
 			<p class="padify">
 				VILLEGAS – ROXAS CONSULTANTS (VRC) is a private multi - disciplinary architectural firm represented by architects from different fields of specialization, academe and consultants from other allied professions that work hand-in-hand with prominent and sensitive clientele. We create designs at all scales and in all sectors - commercial, institutional, residential, and master planning.
 			</p>
@@ -23,7 +23,7 @@
 		</div>
 	</div>
 	<div class="row clearfix">
-		<div class="col-md-8 col-md-offset-1 column">
+		<div class="col-xs-8 col-xs-offset-1 column">
 			<h2 class="bebasify linify">
 				MISSION
 			</h2>
@@ -32,17 +32,14 @@
 			</p>
 			<h2 class="bebasify linify">
 				VISION
-			</h2>
-			
+			</h2>	
 			<p>
 				Climb… Conquer… Converge… on higher grounds!
 				&nbsp;
 			</p>
-			
 			<p>
 				With VRC’s two-fold aim, global competitiveness and professional excellence, it shares its passion to build a world that is beautiful and sustainable for rich and poor alike.
 			</p>
-			
 			<h2 class="bebasify linify">
 				VALUES
 			</h2>
@@ -50,24 +47,21 @@
 				VRC continues to maintain the core values of Honesty and Integrity, Quality Service, Superior Performance, Respect for the Individuals and Care for the Environment. VRC offers services that are of the highest standard and at extremely competitive rates.
 			</p>
 		</div>
-		
-			<div class="col-md-3 column"  style="padding-left: 0px; background-image: url('http://lorempixel.com/220/350/'); height: 350px; background-repeat: no-repeat; top: -15px;">
-				<div class="triangle-up-left-white" style="padding-left: 79%;"></div>
-				<div class="triangle-down-right" style="top: 54.4%; left: -8px;"></div>
+		<div class="col-xs-3 column about2-photo">
+				<div class="angle2-white-up"></div>
+				<div class="angle2-white-down"></div>
 			</div>
 	</div>
 	<div class="row clearfix">
-		<div class="col-md-3 column"  style="padding-left: 0px; background-image: url('http://lorempixel.com/220/350/'); height: 350px; background-repeat: no-repeat; left:14px; top: 20px;">
-		
-				<div class="triangle-up-left-white"></div>
-				<div class="triangle-down-right" style="top: 54.4%; left: 0px;"></div>
-			
+		<div class="col-xs-3 column about3-photo">
+				<div class="angle3-white-up"></div>
+				<div class="angle3-white-down"></div>
 		</div>
-		<div class="col-md-4 column">
+		<div class="col-xs-4 column">
 			<h2 class="bebasify linify">
 				CLIENTS
 			</h2>
-			<ul class="list-unstyled">
+			<ul class="list-unstyled listify">
 				<li>
 					Angeles University Foundation (AUF)
 				</li>
@@ -103,9 +97,9 @@
 				</li>
 			</ul>
 		</div>
-		<div class="col-md-4 column">
-		<h3> &nbsp;</h3>
-			<ul class="list-unstyled">
+		<div class="col-xs-5 column">
+		<h2> &nbsp;</h2>
+			<ul class="list-unstyled listify">
 				<li>
 					Star Tollway Inc.
 				</li>
@@ -143,10 +137,10 @@
 		</div>
 	</div>
 	<div class="row clearfix">
-		<div class="col-md-3 column">
+		<div class="col-xs-3 column">
 			
 		</div>
-		<div class="col-md-7 column">
+		<div class="col-xs-7 column">
 			<h2 class="bebasify linify">
 				MEMBERSHIPS
 			</h2>
