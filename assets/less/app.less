@@ -223,17 +223,6 @@ footer{
 	
 }
 
-ul#menu-primary-navigation{
-
--webkit-transform: skew(-10deg);
--moz-transform: skew(-10deg);
--ms-transform: skew(-10deg);
-transform: skew(-10deg);
-font-family:'BebasNeueRegular'; font-size:18px;
-color: #636262;
-
-
-}
 
 .navbar-nav>li>a {
 padding-top: 10px;
@@ -318,10 +307,9 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 @media (min-width: @screen-sm-min) { }
 
 @media (min-width: @screen-md-min) {
-
-		.navbar-nav{
-        float:none;
-        margin: 0 auto;
+.navbar-nav{
+    float:none;
+    margin: 0 auto;
         display: table;
         table-layout: fixed;
         font: 900;} 
@@ -330,7 +318,7 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 	    	padding: 0px
     	}
     	
-}
+ }
 @media (min-width: @screen-lg-min) { }
 
 //start of custom css
@@ -542,7 +530,14 @@ margin-top: -432px;
 border-top: 432px solid transparent;
 border-right: 641px solid #FFFFFF;
 }
-
+//about us nav tab override
+.redify{
+margin-bottom: 10px;
+margin-top: 40px;
+background-color: #b10f12;
+border-bottom: 11px solid #8c0407;	
+	
+}
 ///////about owner/////////
 //about first photo
 .owner-photo{
@@ -578,7 +573,7 @@ height: 0;
 padding-top: 67%;
 overflow: hidden;
 top: 65.6%;
-left: -1px;
+left: 0px;
 }
 .owner-white-down:after{
 content: "";
@@ -588,4 +583,156 @@ height: 0;
 margin-top: -433px;
 border-top: 432px solid transparent;
 border-right: 641px solid #fff;	
+}
+
+///////design services page/////////
+.services{
+padding-left: 0px; 
+background-image: url('http://placehold.it/220x440/'); 
+height: 440px; 
+background-repeat: no-repeat;
+}
+
+//services triagles
+.services-photo{
+	padding-left: 0px;
+	background-image: url('http://placehold.it/220x440/'); 
+	height: 440px;
+	background-repeat: no-repeat; 
+	left:15px;
+}
+.services-grey-up {
+    width: 0;
+height: 0;
+padding-bottom: 82%;
+padding-left: 97%;
+overflow: hidden;
+}
+.services-grey-up:after {
+content: "";
+display: block;
+width: 0;
+height: 0;
+margin-left: -536px;
+border-bottom: 364px solid transparent;
+border-left: 537px solid #c3c3c4;
+}
+
+.services-white-down {
+position: absolute;
+width: 91%;
+height: 0;
+padding-top: 67%;
+overflow: hidden;
+top: 65.6%;
+left: 0px;
+}
+.services-white-down:after{
+content: "";
+display: block;
+width: 0;
+height: 0;
+margin-top: -433px;
+border-top: 432px solid transparent;
+border-right: 641px solid #fff;	
+}
+
+.services-grey-down {
+position: relative;
+width: 22%;
+height: 0;
+padding-top: 234px;
+overflow: hidden;
+margin-left: 734px;
+}
+
+.services-grey-down:after {
+content: "";
+display: block;
+width: 0;
+height: 0;
+margin-top: -432px;
+border-top: 432px solid transparent;
+border-right: 641px solid #c3c3c4;
+}
+
+.services-pad{
+	padding-bottom: 25px;
+	padding-top: 25px;
+}
+
+/////// menu affix
+
+.affix {
+position: fixed;
+z-index: 4;
+top: 0;
+background-color: #363638;
+width: 940px !important;
+}
+// menu skew
+/*
+ul#menu-primary-navigation:hover{
+-webkit-transform: skew(-10deg);
+-moz-transform: skew(-10deg);
+-ms-transform: skew(-10deg);
+transform: skew(-10deg);
+}
+*/
+nav ul{
+  list-style:none;
+}
+
+nav li {
+  display:inline-block;
+  text-align:center;
+
+  -webkit-transform: skew(-20deg);
+  -moz-transform: skew(-20deg);
+  -ms-transform: skew(-20deg);
+  -o-transform: skew(-20deg);
+  transform: skew(-20deg); 
+
+  -webkit-transition: background 0.2s;
+  -moz-transition: background 0.2s;
+  -ms-transition: background 0.2s;
+  -o-transition: background 0.2s;
+  transition: background 0.2s;
+}
+
+nav li a {
+  display:block;
+  text-decoration:none;
+  padding:5px 10px;
+  font-family: 'BebasNeueRegular',serif;
+  color:#fff;
+  -webkit-transform: skew(20deg) !important;
+  -moz-transform: skew(20deg) !important;
+  -ms-transform: skew(20deg) !important;
+  -o-transform: skew(20deg) !important;
+  transform: skew(20deg) !important; 
+}
+nav li:hover{
+  background:#fff;
+}
+nav li:hover a {
+  color:#222;
+}
+
+ul#menu-footernav {
+font-size: 14px;
+}
+ul#menu-primary-navigation{
+font-size: 20px;
+}
+
+ul#about-tabnav.nav-tabs>li>a:hover{
+
+background: #fff;
+color: #222;
+}
+
+ul#about-tabnav.nav-tabs>li>a{
+
+color: #fff;
 }
