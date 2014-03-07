@@ -59,4 +59,4 @@ School of Urban and Regional Planning,UP-Diliman, Philippines
 					</ul>
 				</div>
 			</div>
-		</div>
+</div>
