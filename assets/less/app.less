@@ -30,61 +30,7 @@ font-family: 'BebasNeueRegular', Arial, serif;
 	text-decoration: underline;
 }
 
-/*** Triangle ***/
-.triangle-up-left-white {
-    width: 0;
-height: 0;
-padding-bottom: 82%;
-padding-left: 81%;
-overflow: hidden;
-}
-.triangle-up-left-white:after {
-content: "";
-display: block;
-width: 0;
-height: 0;
-margin-left: -536px;
-border-bottom: 364px solid transparent;
-border-left: 537px solid #fff;
-}
-.triangle-up-left {
-    width: 0;
-height: 0;
-padding-bottom: 82%;
-padding-left: 81%;
-overflow: hidden;
-}
-.triangle-up-left:after {
-content: "";
-display: block;
-width: 0;
-height: 0;
-margin-left: -536px;
-border-bottom: 364px solid transparent;
-border-left: 537px solid #C1C3C5;
-}
 
-.triangle-down-right {
-position: absolute;
-    width: 78%;
-height: 0;
-padding-top: 66%;
-overflow: hidden;
-top: 54.6%;
-left: -2px;
-}
-
-
-
-.triangle-down-right:after {
-content: "";
-display: block;
-width: 0;
-height: 0;
-margin-top: -456px;
-border-top: 432px solid transparent;
-border-right: 641px solid #FFFFFF;
-}
 
 .triangle-down-right2 {
 position: absolute;
@@ -105,6 +51,7 @@ border-top: 148px solid transparent;
 border-right: 221px solid #c3c3c4;
 }
 
+/*
 .covertriangle{
 position: absolute;
 height: 42px;
@@ -118,16 +65,7 @@ transform: rotate(30deg);
 -ms-transform: rotate(30deg);
 -webkit-transform: rotate(-34deg);
 }
-.straightlineft{
-height: 50px;
-float: right;
-width: 924px;
-background-color: #c3c3c4;
-position: absolute;
-top: 310px;
-left: 220px;
-z-index: 1;
-}
+*/
 
 /*** Font-face ***/
 @font-face {
@@ -735,4 +673,75 @@ color: #222;
 ul#about-tabnav.nav-tabs>li>a{
 
 color: #fff;
+}
+////////contactus
+.covertriangle {
+position: absolute;
+height: 34px;
+float: left;
+width: 331px;
+background-color: #c3c3c4;
+top: 384px;
+left: -81px;
+z-index: 1;
+transform: rotate(30deg);
+-ms-transform: rotate(30deg);
+-webkit-transform: rotate(-30deg);
+}
+
+.straightlineft {
+position: absolute;
+height: 32px;
+float: left;
+width: 753px;
+background-color: #c3c3c4;
+top: 305px;
+left: -25px;
+z-index: 1;
+}
+
+//triangledownwhite
+.triangle-down-right {
+position: absolute;
+width: 92%;
+height: 0;
+padding-top: 78%;
+overflow: hidden;
+top: 54.6%;
+left: -2px;
+}
+.triangle-down-right:after {
+content: "";
+display: block;
+width: 0;
+height: 0;
+margin-top: -455px;
+border-top: 432px solid transparent;
+border-right: 935px solid #FFFFFF;
+}
+
+
+////triangleup
+.trianglebg{
+	padding-left: 0px;
+	background-image: url('http://placehold.it/220x340/'); 
+	height: 340px; 
+	background-repeat: no-repeat;
+}
+.triangle-up-left {
+width: 0;
+height: 0;
+padding-bottom: 58%;
+padding-left: 96%;
+overflow: hidden;
+}
+
+.triangle-up-left:after {
+content: "";
+display: block;
+width: 0;
+height: 0;
+margin-left: -500px;
+border-bottom: 303px solid transparent;
+border-left: 501px solid #C1C3C5;
 }
