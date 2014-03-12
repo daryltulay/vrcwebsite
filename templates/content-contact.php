@@ -1,32 +1,31 @@
 <div class="row"  style="background-color: #fff;">
-				<div class="col-xs-3 column trianglebg">
+	<div class="col-xs-3 column trianglebg">
 <div class="triangle-up-left"></div>
 <div class="covertriangle"></div>
 					
 				</div>
-				<div class="col-xs-5 column">
+	<div class="col-xs-5 column">
                                          <h1 style="font-family: 'BebasNeueRegular';">ADDRESS</h1>
-					 <address> <strong>Twitter, Inc.</strong><br /> 795 Folsom Ave, Suite 600<br/> San Francisco, CA 94107<br /> <abbr title="Phone">P:</abbr> (123) 456-7890</address> 
+					 <address><br /> 8A Engineering Street<br/> GSIS Village, Project 8<br />Quezon City, Philippines 1106</address> 
 					 <div class="straightlineft"> </div>
 				</div>
-				<div class="col-xs-4 column">
-                                         <h1 style="font-family: 'BebasNeueRegular';">MOBILE</h1>					 <address> <strong>Twitter, Inc.</strong><br /> 795 Folsom Ave, Suite 600<br /> San Francisco, CA 94107<br /> <abbr title="Phone">P:</abbr> (123) 456-7890</address>
+	<div class="col-xs-4 column">
+                                         <h1 style="font-family: 'BebasNeueRegular';">MOBILE</h1>					 <address> <strong></strong><br />PHONE: +632 929 0527<br/>Mobile: +63 915 332 4485 /+63 923 476 9924 <br/></address>
                                           <h1 style="font-family: 'BebasNeueRegular';">EMAIL</h1>
 <p>connievroxas@yahoo.com</p>
 				</div>
-			</div>
+</div>
 
 <div class="row"  style="background-color: #fff;">
-				<div class="col-xs-3 column" style="padding-left: 0px; background-image: url('http://lorempixel.com/220/340/'); height: 340px; background-repeat: no-repeat;">
+	<div class="col-xs-3 column triangledownbg">
 <div class="triangle-down-right"></div>
 				</div>
-				<div class="col-xs-5 column">
-                                         <h1 style="font-family: 'BebasNeueRegular';">MESSAGE US</h1>
-					 <address> <strong>Twitter, Inc.</strong><br /> 795 Folsom Ave, Suite 600<br /> San Francisco, CA 94107<br /> <abbr title="Phone">P:</abbr> (123) 456-7890</address>
+	<div class="col-xs-5 column">
+                   <h1 style="font-family: 'BebasNeueRegular';">MESSAGE US</h1>
+					<!-- DO SHORTCODE CONTACT FORM 7 -->
 				</div>
-				<div class="col-xs-4 column">
-                                         <h3 style="font-family: 'BebasNeueRegular';">VRC PORTFOLIO DOWNLOAD</h3>					 <address> <strong>Twitter, Inc.</strong><br /> 795 Folsom Ave, Suite 600<br /> San Francisco, CA 94107<br /> <abbr title="Phone">P:</abbr> (123) 456-7890</address>
-                                          <h3 style="font-family: 'BebasNeueRegular';">LIKE US ON FACEBOOK</h3>
+	<div class="col-xs-4 column">
+                  	<h3>VRC PORTFOLIO DOWNLOAD</h3>					                                           					<h3>LIKE US ON FACEBOOK</h3>
 				</div>
-			</div>
+</div>
 <div style="height: 50px; background-color: #c3c3c4;">
