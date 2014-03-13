@@ -22,7 +22,7 @@
 				</div>
 	<div class="col-xs-5 column">
                    <h1 style="font-family: 'BebasNeueRegular';">MESSAGE US</h1>
-					<!-- DO SHORTCODE CONTACT FORM 7 -->
+					<?php echo do_shortcode('[contact-form-7 id="440" title="Contact form 1"]'); ?>
 				</div>
 	<div class="col-xs-4 column">
                   	<h3>VRC PORTFOLIO DOWNLOAD</h3>					                                           					<h3>LIKE US ON FACEBOOK</h3>
