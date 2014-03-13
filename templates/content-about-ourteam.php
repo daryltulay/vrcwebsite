@@ -119,6 +119,7 @@ Baguio City, Philippines<br></li>
 					“It’s never too late to be who you want to be.”
 				</p>
 			</blockquote>
+			<h4>Project Architect</h4>
 			<p>
 				Jen was part of the I AM+ Life Mastery and Leadership Team of 2012; and thereafter, devoted herself to continuous personal growth. Exposed to different trainings, she developed her knowledge and connections in various fields. She has interest in animation, interior design, photography, and landscaping.
 			</p>
@@ -180,6 +181,7 @@ Cebu City<br></li>
 					“Fall once, stand up twice.”
 				</p>
 			</blockquote>
+			<h4>Project Architect</h4>
 			<p>
 				Brinton, another fresh addition to VRC, was a photographer for the UST CA Vision Magazine and was a member of Fotomasino: The Thomasian Photographer’s Guild during his years in college. He finds interest in alternative design practices, landscape design, and photography.
 			</p>
