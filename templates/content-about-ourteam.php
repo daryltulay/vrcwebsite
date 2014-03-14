@@ -55,7 +55,7 @@
 					“Be the best version of yourself.”
 				</p>
 			</blockquote>
-			<h4>JUNIOR ARCHITECT</h4> 
+			<h4>PROJECT ARCHITECT</h4> 
 			<p>
 				He is VRC’s pride in “Sagay: Tubbataha Marine Life Sanctuary,” that recently won 3rd place and Finalist in the acclaimed Open Ideas International Architectural Competition ‘Innovative Minds 2013’.
 			</p>
