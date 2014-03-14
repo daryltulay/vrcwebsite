@@ -8,9 +8,9 @@
 					<h2>COMMERCIAL DESIGNS</h2>
 					&nbsp;
 					<ul class="list-unstyled" style="text-align: left; font-size: 12px;">
-							<li>BOUTIQUE HOTEL <br>
+							<li><a href="#">BOUTIQUE HOTEL <br>
 								Hi-Cool Philippines <br>
-								Libis, Quezon City</li>
+								Libis, Quezon City</a></li>
 								&nbsp;
 							<li>STEEL ASIA <br>
 							Canteen and Motorcycle Parking <br>

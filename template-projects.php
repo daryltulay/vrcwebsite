@@ -7,12 +7,10 @@ Template Name: Projects Template
 <!--TAB NAV -->
 	<ul id="projects-tabnav"class="nav nav-tabs redify">
 		<li class="active"><a href="#all-projects" data-toggle="tab">ALL PROJECTS</a></li>
-		<li><a href="#archives" data-toggle="tab">ARCHIVES</a></li>
-		<li><a href="#videos" data-toggle="tab">VIDEOS</a></li>
+		<li><a data-toggle="modal" data-target=".bs-example-modal-lg"href="#archives" data-toggle="tab">DISPLAY BY LIST</a></li>
 	</ul>
 <!-- List View -->
 	<div class="col-xs-12">
-<button class="btn btn-primary btn-xs" data-toggle="modal" data-target=".bs-example-modal-lg">DISPLAY BY LIST</button>
 </div>
 	<?php get_template_part('templates/projects-listview');?>
 </div>
