@@ -209,9 +209,9 @@ Project 8, Quezon City
 <br></li>	
 						<li id="listings">STEEL ASIA
 Canteen and Motorcycle Parking
-Calaca, Batangasbr></li>
+Calaca, Batangas<br></li>
 						<li id="listings">Minglanilla, Cebu (Retirees Village)
-100 hectares Coastal Reclamati</li>
+100 hectares Coastal Reclamation</li>
 					</ul>
 				</div>
 			</div>
