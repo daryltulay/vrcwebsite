@@ -10,7 +10,7 @@
 					 <div class="straightlineft"> </div>
 				</div>
 	<div class="col-xs-4 column">
-                                         <h1 style="font-family: 'BebasNeueRegular';">MOBILE</h1>					 <address> <strong></strong><br />PHONE: +632 929 0527<br/>Mobile: +63 915 332 4485 /+63 923 476 9924 <br/></address>
+                                         <h1 style="font-family: 'BebasNeueRegular';">MOBILE</h1>					 <address> <strong></strong><br />PHONE: +632 929 0527<br/>Mobile: +63 915 332 4485 <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+63 923 476 9924 <br/></address>
                                           <h1 style="font-family: 'BebasNeueRegular';">EMAIL</h1>
 <p>connievroxas@yahoo.com</p>
 				</div>
