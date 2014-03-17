@@ -9,7 +9,7 @@
 		</div>
 			
 				<div class="col-xs-8 column" style="margin-top:50px;">
-				<h2>Ma. Concepcion Villegas - Roxas</h2>
+				<h2>ARCH. Ma. Concepcion Villegas - Roxas, PhD</h2>
 				<p> 
 <strong>Ma. Concepcion V. Roxas</strong>, founding General Manager of Villegas-Roxas Consultants (VRC), works on novel and implementable design. Her recent entry <strong>Sagay: Tubbataha Marine Life Sanctuary, Palawan, Philippines</strong> garnered recognition & honorable mention in ‘Innovative Minds 2013: Virtual Context’ – an International Architectural Design Competition hosted by Gurroo.com. </p>
 				
