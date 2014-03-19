@@ -2,7 +2,7 @@
 	<div class="row clearfix">
 		<div class="row">
 				<div class="col-xs-6">
-					<img  style="margin-left: 15px;" alt="300x150" src="http://placehold.it/450x300/" />
+					<img  style="margin-left: 15px;" alt="300x150" src="../assets/img/about/Group.jpg" />
 				</div>
 				<div class="col-xs-5 column">
 					<h2>&nbsp;</h2>
@@ -18,12 +18,12 @@
 	<div class="row clearfix">
 		<div class="col-xs-3 column">
 			<br>
-			<div style="margin-bottom:50px"><img src="http://placehold.it/230x280"/></div>
+			<div style="margin-top:50px; margin-bottom:81px;"><img src="../assets/img/about/Thess.jpg"/></div>
 			
-			<div style="margin-bottom:365px"><img src="http://placehold.it/230x280"/></div>
-			<div style="margin-bottom:206px"><img src="http://placehold.it/230x280"/></div>
+			<div style="margin-bottom:431px;"><img src="../assets/img/about/Nikko.jpg"/></div>
+			<div style="margin-bottom:272px;"><img src="../assets/img/about/Jen.jpg"/></div>
 			
-			<div style="margin-bottom:50px"><img src="http://placehold.it/230x280"/></div>
+			<div style="margin-bottom:250px;"><img src="../assets/img/about/Brinton.jpg"/></div>
 			
 		</div>
 		<div class="col-xs-8 column">
@@ -42,6 +42,7 @@
 			<p>
 				Thess is a disciplined and persevering woman, with her proven track record of no absence for five (5) consecutive years in her previous company; a working student and an active member of a Catholic charismatic community. She is skillful in accounting systems and correspondences. Her interests are also board games and businesses.
 			</p>
+			<br><br><br>
 			<!-- END OF PROFILE -->
 			
 			<!-- START OF PROFILE #JOHN -->

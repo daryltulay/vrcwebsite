@@ -1,6 +1,3 @@
-<div class="triangle-down-right2" style="top: 857px;left: 967px;"></div>
-
-
 <div class="container">
 	<!--
 <div class="row" style="background:#fff; margin-top:30px; margin-left: 0px;">
@@ -9,8 +6,10 @@
 		</div>
 	</div>
 -->
-		<div class="col-xs-12" style="background: #fff; height: 1000px;margin-top: 30px;margin-bottom: 30px;">
-    	<div class="col-xs-10 col-xs-offset-1" >
+	<div class="col-xs-12" style="background: #fff; height: 950px;margin-top: 30px;margin-bottom: 30px;">
+		<div class="col-xs-offset-5" style="margin-left: 38.666667%; margin-top: 50px;"><h1><?php echo("PROJECT UPDATES")?></h1></div>
+    	<div class="row">
+			 <div class="col-xs-10 col-xs-offset-1" >
          <h1>&nbsp;</h1>
 
         <div>
@@ -20,23 +19,11 @@
                 <div class="carousel-inner">
                     <div class="item active">
                         <div class="row">
-                            <div class="col-xs-4 "><a href="#x"><img src="http://vrc.tulay.me/wp-content/uploads/2014/02/vrc-carousel1.jpg" alt="Image" class="img-responsive"></a> <br> <h1> LOREM IPSUM 1</h1>  
+                            <div class="col-xs-4 "><a href="#x"><img src="../assets/img/home/homepage-1.jpg" alt="Image" class="img-responsive"></a> <br> <h1> LOREM IPSUM 1</h1>  
                             </div>
-                            <div class="col-xs-4"><a href="#x"><img src="http://vrc.tulay.me/wp-content/uploads/2014/02/vrc-carousel1.jpg" alt="Image" class="img-responsive"></a> <br> <h1> LOREM IPSUM 2</h1>  
+                            <div class="col-xs-4"><a href="#x"><img src="../assets/img/home/homepage-2.jpg" alt="Image" class="img-responsive"></a> <br> <h1> LOREM IPSUM 2</h1>  
                             </div>
-                            <div class="col-xs-4"><a href="#x"><img src="http://vrc.tulay.me/wp-content/uploads/2014/02/vrc-carousel1.jpg" alt="Image" class="img-responsive"></a> <br> <h1> LOREM IPSUM 3</h1>  
-                            </div>
-                        </div>
-                        <!--/row-->
-                    </div>
-                    <!--/item-->
-                    <div class="item">
-                        <div class="row">
-                            <div class="col-xs-4"><a href="#x"><img src="http://vrc.tulay.me/wp-content/uploads/2014/02/vrc-carousel1.jpg" alt="Image" class="img-responsive"></a> <br> <h1> LOREM IPSUM 4</h1>  
-                            </div>
-                            <div class="col-xs-4"><a href="#x"><img src="http://vrc.tulay.me/wp-content/uploads/2014/02/vrc-carousel1.jpg" alt="Image" class="img-responsive"></a> <br> <h1> LOREM IPSUM 5</h1>  
-                            </div>
-                            <div class="col-xs-4"><a href="#x"><img src="http://vrc.tulay.me/wp-content/uploads/2014/02/vrc-carousel1.jpg" alt="Image" class="img-responsive"></a> <br> <h1> LOREM IPSUM 6</h1>  
+                            <div class="col-xs-4"><a href="#x"><img src="../assets/img/home/homepage-3.jpg" alt="Image" class="img-responsive"></a> <br> <h1> LOREM IPSUM 3</h1>  
                             </div>
                         </div>
                         <!--/row-->
@@ -44,12 +31,26 @@
                     <!--/item-->
                     <div class="item">
                         <div class="row">
-                            <div class="col-xs-4"><a href="#x"><img src="http://vrc.tulay.me/wp-content/uploads/2014/02/vrc-carousel1.jpg" alt="Image" class="img-responsive"></a> <br> <h1> LOREM IPSUM 7</h1>  
+                            <div class="col-xs-4"><a href="#x"><img src="../assets/img/home/homepage-4.jpg" alt="Image" class="img-responsive"></a> <br> <h1> LOREM IPSUM 4</h1>  
                             </div>
-                            <div class="col-xs-4"><a href="#x"><img src="http://vrc.tulay.me/wp-content/uploads/2014/02/vrc-carousel1.jpg" alt="Image" class="img-responsive"></a> <br> <h1> LOREM IPSUM 8</h1>  
+                            <div class="col-xs-4"><a href="#x"><img src="../assets/img/home/homepage-5.jpg" alt="Image" class="img-responsive"></a> <br> <h1> LOREM IPSUM 5</h1>  
+                            </div>
+                            <div class="col-xs-4"><a href="#x"><img src="../assets/img/home/homepage-6.jpg" alt="Image" class="img-responsive"></a> <br> <h1> LOREM IPSUM 6</h1>  
+                            </div>
+                        </div>
+                        <!--/row-->
+                    </div>
+                    <!--/item-->
+                    <div class="item">
+                        <div class="row">
+                            <div class="col-xs-4"><a href="#x"><img src="../assets/img/home/homepage-7.jpg" alt="Image" class="img-responsive"></a> <br> <h1> LOREM IPSUM 7</h1>  
+                            </div>
+                            <!--
+<div class="col-xs-4"><a href="#x"><img src="http://vrc.tulay.me/wp-content/uploads/2014/02/vrc-carousel1.jpg" alt="Image" class="img-responsive"></a> <br> <h1> LOREM IPSUM 8</h1>  
                             </div>
                             <div class="col-xs-4"><a href="#x"><img src="http://vrc.tulay.me/wp-content/uploads/2014/02/vrc-carousel1.jpg" alt="Image" class="img-responsive"></a> <br> <h1> LOREM IPSUM 9</h1>  
                             </div>
+-->
                         </div>
                         <!--/row-->
                     </div>
@@ -64,6 +65,7 @@
         </div>
         <!--/well-->
     </div>
+    	 </div>
     </div>
 	
 </div>

@@ -9,7 +9,7 @@
   </ol>
   <div class="carousel-inner">
     <div class="item active">
-      <img src="http://lorempixel.com/970/429/abstract/1" class="img-responsive">
+      <img src="../assets/img/slider/home-header-photos-1.jpg" class="img-responsive">
       <div class="container">
         <div class="carousel-caption">
           <h1>Bootstrap 3 Carousel Layout</h1>
@@ -19,7 +19,7 @@
       </div>
     </div>
     <div class="item">
-      <img src="http://lorempixel.com/970/429/abstract/1" class="img-responsive">
+      <img src="../assets/img/slider/home-header-photos-2.jpg" class="img-responsive">
       <div class="container">
         <div class="carousel-caption">
           <h1>Changes to the Grid</h1>
@@ -29,7 +29,27 @@
       </div>
     </div>
     <div class="item">
-      <img src="http://placehold.it/970X429" class="img-responsive">
+      <img src="../assets/img/slider/home-header-photos-3.jpg" class="img-responsive">
+      <div class="container">
+        <div class="carousel-caption">
+          <h1>Percentage-based sizing</h1>
+          <p>With "mobile-first" there is now only one percentage-based grid.</p>
+          <p><a class="btn btn-large btn-primary" href="#">Browse gallery</a></p>
+        </div>
+      </div>
+    </div>
+    <div class="item">
+      <img src="../assets/img/slider/home-header-photos-4.jpg" class="img-responsive">
+      <div class="container">
+        <div class="carousel-caption">
+          <h1>Percentage-based sizing</h1>
+          <p>With "mobile-first" there is now only one percentage-based grid.</p>
+          <p><a class="btn btn-large btn-primary" href="#">Browse gallery</a></p>
+        </div>
+      </div>
+    </div>
+    <div class="item">
+      <img src="../assets/img/slider/home-header-photos-5.jpg" class="img-responsive">
       <div class="container">
         <div class="carousel-caption">
           <h1>Percentage-based sizing</h1>
