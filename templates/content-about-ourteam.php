@@ -72,7 +72,7 @@
 					3rd Place Finalist (International) 
 					Innovative Minds Architectural Design Competition: Virtual Context 2013<br></li>		
 						<li id="listings">Minglanilla, Cebu 
-					100 hectares Coastal Reclamation<br></li>
+					300 hectares Coastal Reclamation<br></li>
 						<li id="listings">12-Storey BOUTIQUE HOTEL Hi-Cool Philippines
 						Libis, Quezon City<br></li>
 						<li id="listings">VILLEGAS - ROXAS CONSULTANTS BLDG. / XS DESIGN BLDG.
@@ -87,7 +87,7 @@ Main Campus, Project 8, Quezon City<br></li>
 						<li id="listings">AMA BANK Financial Centre
 311 Shaw Blvd., Mandaluyong City<br></li>
 						<li id="listings">Angeles University Foundation
-College of Architecture Office<br></li>
+Department of Architecture Office<br></li>
 						<li id="listings">HERITAGE COUNTY HOMES
 5,000 sq.m. planned community
 Baguio City, Philippines<br></li>
@@ -143,13 +143,13 @@ Landscaping of the campus<br></li>
 				<div class="col-xs-4 column">
 					<ul class="list-unstyled listify">
 						<li id="listings">Minglanilla, Cebu (Tertiary Hospital)
-100 hectares Coastal Reclamation<br></li>	
+300 hectares Coastal Reclamation<br></li>	
 						<li id="listings">VILLEGAS - ROXAS CONSULTANTS
 BLDG./ XS DESIGN
 Renovation
 Project 8, Quezon City<br></li>
 						<li id="listings">Angeles University Foundation (AUF)
-College of Architecture Office
+Department of Architecture Office
 Angeles City, Pampanga<br></li>
 				</ul>
 				</div>
@@ -212,7 +212,7 @@ Project 8, Quezon City
 Canteen and Motorcycle Parking
 Calaca, Batangas<br></li>
 						<li id="listings">Minglanilla, Cebu (Retirees Village)
-100 hectares Coastal Reclamation</li>
+300 hectares Coastal Reclamation</li>
 					</ul>
 				</div>
 			</div>

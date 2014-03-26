@@ -46,7 +46,7 @@ Innovative Minds Architectural Design Competition</p>
       <img src="../assets/img/slider/home-header-photos-4.jpg" class="img-responsive">
       <div class="container">
         <div class="carousel-caption">
-          <h1 id="villegasCarouselh1">AUF – College of Architecture Office</h1>
+          <h1 id="villegasCarouselh1">AUF – Department of Architecture Office</h1>
           <p>Angeles University Foundation</p>
           <p><a class="btn btn-sm btn-primary" href="../projects/#mg_ld_370">Browse Gallery</a></p>
         </div>

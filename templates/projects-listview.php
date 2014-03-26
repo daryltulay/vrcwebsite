@@ -36,7 +36,7 @@
 							Project 8, Quezon City</a></li>
 
 							&nbsp;
-							<li><a href="#mg_ld_370" target="_blank">AUF - College of Architecture Office <br>
+							<li><a href="#mg_ld_370" target="_blank">AUF - Department of Architecture Office <br>
 								Angeles University Foundation</a></li>
 								
 								&nbsp;
@@ -88,7 +88,7 @@
 					&nbsp;
 					<ul class="list-unstyled" style="text-align: left; font-size: 12px;">
 						<li><a href="#mg_ld_393" target="_blank">Minglanilla, Cebu - Reclamation<br>
-						100 hectares Coastal Reclamation</a></li>
+						300 hectares Coastal Reclamation</a></li>
 					</ul>
 					<h2>RESIDENTIAL DESIGNS</h2>
 					&nbsp;

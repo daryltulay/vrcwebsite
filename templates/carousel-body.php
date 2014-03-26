@@ -21,7 +21,7 @@
                         <div class="row">
                             <div class="col-xs-4 "><a href="#x"><img src="../assets/img/home/homepage-1.jpg" alt="Image" class="img-responsive"></a> <br> <h3 class="align-left"> SAGAY: Tubbataha Marine Life Sanctuary </h3>  
                             </div>
-                            <div class="col-xs-4"><a href="#x"><img src="../assets/img/home/homepage-2.jpg" alt="Image" class="img-responsive"></a> <br> <h3 class="align-left"> AUF - College of Architecture Office</h3>  
+                            <div class="col-xs-4"><a href="#x"><img src="../assets/img/home/homepage-2.jpg" alt="Image" class="img-responsive"></a> <br> <h3 class="align-left"> AUF - Department of Architecture Office</h3>  
                             </div>
                             <div class="col-xs-4"><a href="#x"><img src="../assets/img/home/homepage-3.jpg" alt="Image" class="img-responsive"></a> <br> <h3 class="align-left"> Minglanilla, Cebu - Reclamation</h3>  
                             </div>
