@@ -9,7 +9,8 @@ module.exports = function(grunt) {
       all: [
         'Gruntfile.js',
         'assets/js/*.js',
-        '!assets/js/scripts.min.js'
+        '!assets/js/scripts.min.js',
+        'assets/js/fade.js'
       ]
     },
     less: {
@@ -33,6 +34,7 @@ module.exports = function(grunt) {
       dist: {
         files: {
           'assets/js/scripts.min.js': [
+           'assets/js/fade.js',
             'assets/js/plugins/bootstrap/transition.js',
             'assets/js/plugins/bootstrap/alert.js',
             'assets/js/plugins/bootstrap/button.js',

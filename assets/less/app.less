@@ -104,54 +104,24 @@ transform: rotate(30deg);
 /* ==========================================================================
    Base
    ========================================================================== */
-body {background-color: #c3c3c4;
-
+body {
+background-color: #c3c3c4;
 text-align: justify;
+}
+
+.container{
+	display: none;
+}
+
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	font-family: 'BebasNeueRegular', sans-serif;
 }
- }
 
 .landbg {background: url('http://vrc.tulay.me/wp-content/uploads/2014/02/Intro-Bg.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;}
-  
-/*
-.li:active{
-	background-color: white;
-	color: black
-}
-*/
-
-/*
-.nav-pills > li.active > a {
-   position: relative;
-   border-radius: 0px !important;
-}
-
-.nav-pills > li.active > a::after {
-   border-top: 15px inset transparent;
-   border-bottom: 15px inset transparent;
-   border-left: 30px solid #08C;
-   position: absolute;
-   content: "";
-   top: 0;
-   right: -20px;
-}
-*/
-/*
-nav{
-	-webkit-transform: skew(-10deg);
--moz-transform: skew(-10deg);
--ms-transform: skew(-10deg);
-transform: skew(-10deg);
-font-family:'BebasNeueRegular'; font-size:18px;
-color: #636262;
-}
-*/
-
 footer{
 	font-family: 'BebasNeueRegular';
 	font-size: 14px;
@@ -763,6 +733,49 @@ text-transform: uppercase;
 }
 
 .modal-content{
-	background-color: rgba(19, 19, 19, 0.87);
-	color: wheat;
+background-color: rgba(19, 19, 19, 0.87);
+color: wheat;
 }
+//carousel
+.carousel-caption{
+text-align: left;
+left: 4%;
+top: -20px;
+}
+.carousel-indicators{
+margin-left: -14%;
+text-align: right;
+}
+
+#villegasCarouselh1{
+font-size: 53px;
+line-height: 47px;
+}
+
+.container-projects {
+display: inline-grid;
+max-width: none !important;
+width: 970px;
+margin-right: auto;
+margin-left: auto;
+padding-left: 15px;
+padding-right: 15px;
+content: " ";
+}
+
+.projects-fix{
+background-color: #fff;
+padding-top: 30px;
+padding-bottom: 30px;
+margin-bottom: 30px;
+}
+
+.bottom{
+	margin-bottom: 30px;
+}
+
+.align-left{
+	text-align: left;
+}
+
+

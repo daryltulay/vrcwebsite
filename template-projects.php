@@ -17,7 +17,15 @@ Template Name: Projects Template
 <!--TAB CONTENT-->
 <div class="tab-content">
 	<div class="tab-pane active" id="all-projects">
-		<?php get_template_part('templates/content-page');  ?>
+		
+		<div class="container-projects">
+			
+				<div class="col-xs-12 projects-fix">
+				<?php echo do_shortcode( '[mediagrid cat="12" filter="1" title_under="0" r_width="auto"]') ?>  
+				</div>
+		
+		</div>
+<!--  <?php get_template_part('templates/content-page');  ?> -->
 	</div>
 	<div class="tab-pane" id="archives">
 	  	 <?php get_template_part('templates/projects-archives');  ?>

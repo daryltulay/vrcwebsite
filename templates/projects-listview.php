@@ -70,7 +70,7 @@
 					<h2>COMPETITIONS</h2>
 					&nbsp;
 					<ul class="list-unstyled" style="text-align: left; font-size: 12px;">
-						<li><a href="#mg_ld_314" target="_blank">SAGAY: Tubbataha Marine Life Sanctuary (International)<br>
+						<li><a href="#mg_ld_331" target="_blank">SAGAY: Tubbataha Marine Life Sanctuary (International)<br>
 						3<sup>rd</sup> Place Finalist<br>
 						Innovative Minds Architectural Design Competition: Virtual Context 2013</a></li>
 						
@@ -80,7 +80,7 @@
 						Kowloon East, Hong Kong</a></li>
 						
 						&nbsp;
-						<li><a href="#mg_ld_331" target="_blank">Belgorod City Centre<br>
+						<li><a href="#mg_ld_314" target="_blank">Belgorod City Centre<br>
 						International Competition 2013<br>
 						Russia</a></li>
 					</ul>
